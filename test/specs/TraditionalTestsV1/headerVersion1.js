@@ -1,5 +1,5 @@
-import TraditionalPageObject from '/Users/Nick/Desktop/AppliFashion/pageObjects/TraditionalTestsV1/traditionalTestsV1.object';
-// import TraditionalPageObject from '../../../../pageObjects/TraditionalTestsV1/traditionalTestsV1.object.js';
+import TraditionalPageObject from '/Users/Nick/Desktop/AppliFashion\/pageObjects/TraditionalTestsV1/traditionalTestsV1.object';
+import TraditionalPageObject from '../';
 
 
 const url = 'https://demo.applitools.com/gridHackathonV1.html';
